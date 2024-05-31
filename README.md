@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+  ### Hi there 👋, my name is Saurov Karmokar
+#### Web Developer
+![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I am a student of Computer Science & Engineering. I have completed my graduation from Leading University,Sylhet. I am expert in backend development,skilled in PHP and the Laravel framework for creating web applications.
+
+Skills:  JS / HTML / CSS/Bootstrap/PHP/Laravel/Java Swing
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
+
