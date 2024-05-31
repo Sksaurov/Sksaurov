@@ -1,5 +1,4 @@
-![Web Developer]
-(https://media.licdn.com/dms/image/D5603AQHVpcbxqRq9eA/profile-displayphoto-shrink_800_800/0/1714157663672?e=1722470400&v=beta&t=mNT-Ib30j9r4GhAXmZuWW2HOx4Fw2hkWFPxnIEPOB5M)
+
 ## Hi there 👋
 
 
@@ -15,16 +14,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-  ### Hi there 👋, my name is Saurov Karmokar
+### Hi there 👋, my name is Saurov Karmokar
 #### Web Developer
-
+![Web Developer](https://media.licdn.com/dms/image/D5603AQHVpcbxqRq9eA/profile-displayphoto-shrink_800_800/0/1714157663672?e=1722470400&v=beta&t=mNT-Ib30j9r4GhAXmZuWW2HOx4Fw2hkWFPxnIEPOB5M)
 
 I am a student of Computer Science & Engineering. I have completed my graduation from Leading University,Sylhet. I am expert in backend development,skilled in PHP and the Laravel framework for creating web applications.
 
 Skills:  JS / HTML / CSS/Bootstrap/PHP/Laravel/Java Swing
 
 - 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 
 
