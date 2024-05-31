@@ -1,6 +1,6 @@
 
 ![Web Developer](https://media.licdn.com/dms/image/D5603AQHVpcbxqRq9eA/profile-displayphoto-shrink_800_800/0/1714157663672?e=1722470400&v=beta&t=mNT-Ib30j9r4GhAXmZuWW2HOx4Fw2hkWFPxnIEPOB5M)
-<h1 align="center">Hi 👋, I'm Saurov Karmokar</h1>
+<h1 align="center">Hi, I'm Saurov Karmokar</h1>
 <h4 align="center">I am a student of Computer Science & Engineering. I have completed my undergraduation from Leading University,Sylhet. I am expert in backend development,skilled in PHP and the Laravel framework for creating web applications.</h4>
 
 - 🔭 I’m currently working on **Unimart**
