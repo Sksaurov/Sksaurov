@@ -22,7 +22,7 @@ I am a student of Computer Science & Engineering. I have completed my graduation
 
 Skills:  JS / HTML / CSS/Bootstrap/PHP/Laravel/Java Swing
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on an ecommerce project!
 
 
 
