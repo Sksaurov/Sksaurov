@@ -7,7 +7,7 @@
 <h1 align="center">Hi, I'm Saurov Karmokar</h1>
 <h4 align="center">I am a student of Computer Science & Engineering. I have completed my undergraduation from Leading University,Sylhet. I am expert in backend development,skilled in PHP and the Laravel framework for creating web applications.</h4>
 
-- 🔭 I’m currently working on **Unimart**
+
 
 - 🌱 I’m currently learning **Laravel**
 
